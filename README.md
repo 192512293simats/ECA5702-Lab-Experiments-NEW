@@ -1,4 +1,4 @@
-# ECA57 – Nanoelectronics Laboratory
+# ECA5702 – Nanoelectronics Laboratory
 
 This repository contains simulation experiments for the first 10 experiments in **ECA57 – Nanoelectronics Laboratory**. The experiments cover nanoparticle light scattering and absorption, particle-size estimation using extinction spectra, quantum confinement in quantum wells and dots, advanced transistor characteristics, and electronic band structure and transport in graphene, carbon nanotubes, CNTFETs, and GFETs.
 
